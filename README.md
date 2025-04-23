@@ -43,6 +43,8 @@ Data from any official government source is limited. Combining different sources
     * [Community](https://drive.google.com/file/d/17DKiZtUN_i3zEH4_VAA92fN25TkDE_er/view)
     * [Migration](https://drive.google.com/file/d/13spCUTiaH5fKODgciFw8GtQgQ3ZUAnyR/view) 
 * [HazMatMapper](https://geography.wisc.edu/hazardouswaste/index.html)
+* [A Historical Atlas of Racial Violence in the U.S., between 1889 and 1945](/Examples/A_Historical_Atlas_of_Racial_Violence.pdf) (Created for the 2024 Design Challenge hosted by the UW-Cartography lab)
+* [SDG Atlas, China](/Examples/111_CartWorkshop_Atlas2019.pdf) (Created for a 2019 workshop in Nanjing, China)
 
 ## Tutorials
 * Choropleth Tutorial (From Mapping SDGs Technical Supplement)
@@ -71,6 +73,4 @@ Data from any official government source is limited. Combining different sources
     * [1 - Overview and Setup](/Tutorials/Dot_Density/1_dot_setup.md)
     * [2 - Adding, Joining, and Projecting Data](/Tutorials/Dot_Density/2_adding_joining_data.md)
     * [3 - Creating Dot Layer](/Tutorials/Dot_Density/3_creating_dot_layer.md)
-* Isoline Map
-* Split Symbol Map
 * Exporting from QGIS to Illustrator
