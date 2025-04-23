@@ -59,7 +59,7 @@ Data from any official government source is limited. Combining different sources
     * [1.11 - Adding Elements to Layout View](https://github.com/uwcartlab/MappingSDGsTechnicalSupplement/blob/main/1_Choropleth/1.11_Layout.md)
     * [1.12 - Exporting the Map](https://github.com/uwcartlab/MappingSDGsTechnicalSupplement/blob/main/1_Choropleth/1.12_Save.md)
     * [1.13 - Advanced Layout Styling](https://github.com/uwcartlab/MappingSDGsTechnicalSupplement/blob/main/1_Choropleth/1.13_Advanced_Layout.md)
-* Proportional Symbol Tutorial
+* Proportional Symbol Tutorial (From Mapping SDGs Technical Supplement)
     * [2.1 - Overview and Setup](https://github.com/uwcartlab/MappingSDGsTechnicalSupplement/blob/main/2_Proportional_Symbol/2.1_proportional_setup.md)
     * [2.2 - Projecting Map and Adding Data](https://github.com/uwcartlab/MappingSDGsTechnicalSupplement/blob/main/2_Proportional_Symbol/2.2_project_and_data.md)
     * [2.3 - Extracting European Countries and Centroids](https://github.com/uwcartlab/MappingSDGsTechnicalSupplement/blob/main/2_Proportional_Symbol/2.3_select_europe_and_centroids.md)
@@ -68,5 +68,10 @@ Data from any official government source is limited. Combining different sources
     * [2.6 - Creating the Legend](https://github.com/uwcartlab/MappingSDGsTechnicalSupplement/blob/main/2_Proportional_Symbol/2.6_legend.md)
     * [2.7 - Advanced Layout Styling](https://github.com/uwcartlab/MappingSDGsTechnicalSupplement/blob/main/2_Proportional_Symbol/2.7_layout.md)
 * Dot Density
+    * [1 - Overview and Setup]()
+    * [2 - Adding, Joining, and Projecting Data]()
+    * [3 - Creating Dot Layer]()
+    * [4 - Creating Layout]()
 * Isoline Map
+* Split Symbol Map
 * Exporting from QGIS to Illustrator
