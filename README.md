@@ -68,9 +68,9 @@ Data from any official government source is limited. Combining different sources
     * [2.6 - Creating the Legend](https://github.com/uwcartlab/MappingSDGsTechnicalSupplement/blob/main/2_Proportional_Symbol/2.6_legend.md)
     * [2.7 - Advanced Layout Styling](https://github.com/uwcartlab/MappingSDGsTechnicalSupplement/blob/main/2_Proportional_Symbol/2.7_layout.md)
 * Dot Density
-    * [1 - Overview and Setup](tutorials/Dot_Density/1_dot_setup.md)
-    * [2 - Adding, Joining, and Projecting Data](tutorials/Dot_Density/2_adding_joining_data.md)
-    * [3 - Creating Dot Layer](tutorials/Dot_Density/3_creating_dot_layer.md)
+    * [1 - Overview and Setup](/Tutorials/Dot_Density/1_dot_setup.md)
+    * [2 - Adding, Joining, and Projecting Data](/Tutorials/Dot_Density/2_adding_joining_data.md)
+    * [3 - Creating Dot Layer](/Tutorials/Dot_Density/3_creating_dot_layer.md)
 * Isoline Map
 * Split Symbol Map
 * Exporting from QGIS to Illustrator
