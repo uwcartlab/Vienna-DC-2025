@@ -35,7 +35,7 @@
 
 Many nations across the globe have some geospatial and attribute data available through national-level portals. Some sub-natinoal regions and cities do, too (for example [Cape Town](https://odp-cctegis.opendata.arcgis.com/), [Vienna](https://www.wien.gv.at/viennagis/), [Rio de Janeiro](https://www.data.rio/)). As you develop your idea/map, you are encouraged to search for  data from a local nation/region/city to complement your global data, and tell a grounded, place-based narrative. 
 
-Data from any official government source is limited. Combining different sources, and—if possible—qualitative and quantitative data, can enrich your map's story.
+Data from any official government source is limited. Combining different sources, and (if possible) qualitative and quantitative data, can enrich your map's story.
 
 ## Examples
 * [Atlas of Sustainable Development Goals](https://datatopics.worldbank.org/sdgatlas?lang=en)
