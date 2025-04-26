@@ -2,25 +2,32 @@
  
 ## Schedule 
 ### Day 1 // Monday
-* 0:00 to 0:00
-* 0:00 to 0:00
-* 0:00 to 0:00
+* Unit 1
+    * 10:00 to 10:15 // Arrival (and coffee!)
+    * 10:15 to 10:30 // Intro from Georg Gartner and Rob Roth
+    * 10:30 to 10:45 // Inspiration (Ayako Kagawa)
+    * 10:45 to 11:00 // Mapping the SDGs (Rob Roth)
+    * 11:00 to 11:15 // Atlas in a Day (Alicia Cowart)
+* 11:15 to 11:30 // Break
+* Unit 2
+    * 11:30 to 13:00 // Brainstorming/Group Formation
+* 13:00 to 14:00 // Lunch
+* Unit 3
+    * 14:00 to 15:30 // Design Sprint 1
+* 15:30 to 16:00 // Break
+* Unit 4
+    * 16:00 to 17:30 // Design Sprint 2
 ### Day 2 // Tuesday
-* 0:00 to 0:00
-* 0:00 to 0:00
-* 0:00 to 0:00
+* Unit 5
+    * 14:30 to 15:00 // Spec Sheet Creation 
+    * 15:00 to 17:00 // Design Sprint 3
 ### Day 3 // Wednesday
-* 0:00 to 0:00
-* 0:00 to 0:00
-* 0:00 to 0:00
+* Initial drafts due by 16:00
+* Unit 6
+    * 16:00 to 18:00 // Presentations
+* 18:00 to 20:00 // Social (!)
 ### Day 4 // Thursday
-* 0:00 to 0:00
-* 0:00 to 0:00
-* 0:00 to 0:00
-### Day 5 // Friday
-* 0:00 to 0:00
-* 0:00 to 0:00
-* 0:00 to 0:00
+* Second drafts due by 16:00
 
 ## Data Sources
 * [UN SDG Data](https://unstats.un.org/sdgs/dataportal/database) - Global attribute data based on SDG indicators.
@@ -44,7 +51,6 @@ Data from any official government source is limited. Combining different sources
     * [Migration](https://drive.google.com/file/d/13spCUTiaH5fKODgciFw8GtQgQ3ZUAnyR/view) 
 * [HazMatMapper](https://geography.wisc.edu/hazardouswaste/index.html)
 * [A Historical Atlas of Racial Violence in the U.S., between 1889 and 1945](/Examples/A_Historical_Atlas_of_Racial_Violence.pdf) (Created for the 2024 Design Challenge hosted by the UW-Cartography lab)
-* [SDG Atlas, China](/Examples/111_CartWorkshop_Atlas2019.pdf) (Created for a 2019 workshop in Nanjing, China)
 
 ## Tutorials
 * Choropleth Tutorial (From Mapping SDGs Technical Supplement)
