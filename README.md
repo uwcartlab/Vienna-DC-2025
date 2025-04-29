@@ -80,6 +80,7 @@ Many nations across the globe have some geospatial and attribute data available 
 Data from any official government source is limited. Combining different sources, and (if possible) qualitative and quantitative data, can enrich your map's story.
 
 ## Examples
+* [Mapping for a Sustainable World Textbook](https://digitallibrary.un.org/record/3898826?ln=en&v=pdf)
 * [Atlas of Sustainable Development Goals](https://datatopics.worldbank.org/sdgatlas?lang=en)
 * Guerilla Cartography Atlas in a Day Series
     * [Community](https://drive.google.com/file/d/17DKiZtUN_i3zEH4_VAA92fN25TkDE_er/view)
