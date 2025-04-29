@@ -38,12 +38,14 @@ The DC Schedule is broken into six 90-120 minute units spanning three days, with
 
 * Unit 4: Design Sprint 2, Sketching Your Visual Story
     * 16:00 to 17:30 // Team Work (organizers available for questions) *The goal is to have cleaned, mappable data in a GIS by day end*
+	* 17:30+ // Continue Work As Needed (Optional)
 	
 ### Day 2 // Tuesday 13.05.25
 
 * Unit 5: Design Sprint 3, Polishing Your Visual Story
     * 14:30 to 15:00 // Collective Spec Sheet Creation
     * 15:00 to 17:00 // Team Work (organizers available for questions)
+	* 17:00+ // Continue Work As Needed (Optional)
 	
 ### Day 3 // Wednesday 14.05.25
 
@@ -114,19 +116,22 @@ Data from any official government source is limited. Combining different sources
     * [3 - Creating Dot Layer](/Tutorials/Dot_Density/3_creating_dot_layer.md)
 * Exporting from QGIS to Illustrator
 
-#Organizers
+## Organizers
 
 * TUW
 	* Georg Gartner
 	* Sacha Schlumpf
 
-* UW-Madison
+* United Nations
+	* Ayako Kagawa
+
+* UW-Madison Cart Lab
 	* Gareth Baldrica-Franklin
 	* Alicia Cowart
 	* N.T. Nawshin
 	* Robert Roth
 
-*ICA UX Commission
+* UX Commission
 	* Robert Roth
 	* Merve Keskin
 	* Zdenek Stachon
