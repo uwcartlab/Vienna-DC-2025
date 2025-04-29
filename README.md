@@ -4,36 +4,63 @@
 
 The University of Wisconsin Cartography Lab ([Cart Lab](https://www.geography.wisc.edu/cartography)) Design Challenge is a day-long mapping workshop that brings together Cartography and Geography students, often in collaboration with campus or community partners, around a curated mapping theme. The Design Challenge is now an institution in the University of Wisconsin‒Madison Geography Department, first running in 2015 and wrapping its 10th annual event this past February 2024. This year (officially #DC11) we are taking the Design Challenge international, combining efforts with the Technical University of Wien, the Erasmus Mundus MSc Cartography Programme, and the International Cartographic Association Commission on the User Experience (UX).
 
-Specifically, we will be making a collective atlas of the [United Nations Sustainable Development Goals}(https://sdgs.un.org/goals) ...*just one week*! The UN adopted the 2030 Agenda for Sustainable Development in 2015, an expansion from the prior 2000–2015 Millennium Development Goals, and defined a global indicator framework for collective transformation and action toward a more equitable and just world: . At the time of this writing (October 2024), the SDG global indicator framework comprised 17 goals to address the most pressing problems facing our worlds, 169 targets that prescribe real and actionable outcomes for sustainability, and 231 unique indicators used to measure and monitor progress towards these targets, inform policy at global and local levels, and promote accountability across all stakeholders (https://unstats.un.org/sdgs/). 
+Specifically, we will be making a collective atlas of the [United Nations Sustainable Development Goals](https://sdgs.un.org/goals) ... _in less than one week_! The UN adopted the 2030 Agenda for Sustainable Development in 2015, an expansion from the prior 2000–2015 Millennium Development Goals, and defined a global indicator framework for collective transformation and action toward a more equitable and just world. At the time of this writing (October 2024), the SDG global indicator framework comprised 17 goals to address the most pressing problems facing our worlds, 169 targets that prescribe real and actionable outcomes for sustainability, and 231 unique indicators used to measure and monitor progress towards these targets, inform policy at global and local levels, and promote accountability across all stakeholders (https://unstats.un.org/sdgs/). 
+
+## Prompt: SDG Atlas in a Week
+
+Our SDG Atlas in a Week will include at least 17 two page spreads, one covering each of the SDGs plus some from front and back matter. Each spread will include one page for maps, charts, and clarifying annotation about the SDG and a second page providing a title and statement about what the maps are saying and what this means for our planet's future and our individual actions. You will work in a small team to develop one of the atlas spreads, but in addition to mapping SDG indicator data, we also want you to bring your own personal experiences and home locations into the map, telling a _compelling story_ about your team's common ground around the SDG and the alternatives that are possible from your different, worldwide perspectives.
  
 ## Schedule 
-### Day 1 // Monday
-* Unit 1
+
+The DC Schedule is broken into six units spanning three days, with most scheduled activities on Monday, May 12th, and drafts submitted 24 hours after the final unit on Thursday, May 15th. The schedule also includes a PhD student meetup (open to MSc students, particularly those interested in a PhD) and two social opportunities for conversation and networking (Wednesday and Thursday)
+
+### Day 1 // Monday 12.05.25
+
+* Unit 1: Introductions & Inspiration Talks
     * 10:00 to 10:15 // Arrival (and coffee!)
-    * 10:15 to 10:30 // Intro from Georg Gartner and Rob Roth
-    * 10:30 to 10:45 // Inspiration (Ayako Kagawa)
-    * 10:45 to 11:00 // Mapping the SDGs (Rob Roth)
-    * 11:00 to 11:15 // Atlas in a Day (Alicia Cowart)
+    * 10:15 to 10:30 // Introductions from Georg Gartner and Robert Roth
+    * 10:30 to 10:45 // Inspiration Talk 1: The United Nations Sustainable Development Goals (Ayako Kagawa)
+    * 10:45 to 11:00 // Inspiration Talk 2: Mapping the SDGs (Robert Roth)
+    * 11:00 to 11:15 // Inspiration Talk 3: Atlas in a Day (Alicia Cowart)
+
 * 11:15 to 11:30 // Break
-* Unit 2
-    * 11:30 to 13:00 // Brainstorming/Group Formation
+
+* Unit 2: Team Formation & Story Brainstorming
+    * 11:30 to 12:00 // Pick an SDG (rank your top three SDG themes, narrow into small groups, facilitated by Robert Roth)
+	* 12:00 to 13:00 // Story Brainstorming (breakouts with Alicia Cowart, Merve Keskin, N.T. Nawshin, Robert Roth, Zdenek Stachon, and available TUW staff)
+
 * 13:00 to 14:00 // Lunch
-* Unit 3
-    * 14:00 to 15:30 // Design Sprint 1
-* 15:30 to 16:00 // Break
-* Unit 4
-    * 16:00 to 17:30 // Design Sprint 2
-### Day 2 // Tuesday
-* Unit 5
-    * 14:30 to 15:00 // Spec Sheet Creation 
-    * 15:00 to 17:00 // Design Sprint 3
-### Day 3 // Wednesday
-* Initial drafts due by 16:00
-* Unit 6
+
+* Unit 3: Design Sprint 1, Obtaining Your Data, Researching Your Topic
+    * 14:00 to 15:30 // Team Work (organizers available for questions)
+
+* 15:30 to 16:00 // Creative Break, the Marshmallow Challenge (facilitated by Robert Roth)
+
+* Unit 4: Design Sprint 2, Sketching Your Visual Story
+    * 16:00 to 17:30 // Team Work (organizers available for questions) *The goal is to have cleaned, mappable data in a GIS by day end*
+	
+### Day 2 // Tuesday 13.05.25
+
+* Unit 5: Design Sprint 3, Polishing Your Visual Story
+    * 14:30 to 15:00 // Collective Spec Sheet Creation
+    * 15:00 to 17:00 // Team Work (organizers available for questions)
+	
+### Day 3 // Wednesday 14.05.25
+
+* Initial Drafts Due in Google Slides by _16:00_
+
+* Unit 6: Team Presentations & Draft Feedback
     * 16:00 to 18:00 // Presentations
-* 18:00 to 20:00 // Social (!)
-### Day 4 // Thursday
-* Second drafts due by 16:00
+	
+* 18:00+ // Social (!) *Recommendations appreciated!
+
+### Day 4 // Thursday 15.05.25
+
+* Second Drafts Due to Rob by _16:00_
+
+*PhD Student Show and Tell (N.T. Nawshin, Gareth Baldrica-Franklin) *Contact Rob if you are interested in giving a 5-10 minute lightning talk!
+
+* 18:00+ // PhD Student Social (Alicia and Rob will crash!) *Recommendations appreciated!
 
 ## Data Sources
 * [UN SDG Data](https://unstats.un.org/sdgs/dataportal/database) - Global attribute data based on SDG indicators.
@@ -86,3 +113,20 @@ Data from any official government source is limited. Combining different sources
     * [2 - Adding, Joining, and Projecting Data](/Tutorials/Dot_Density/2_adding_joining_data.md)
     * [3 - Creating Dot Layer](/Tutorials/Dot_Density/3_creating_dot_layer.md)
 * Exporting from QGIS to Illustrator
+
+#Organizers
+
+* TUW
+	* Georg Gartner
+	* Sacha Schlumpf
+
+* UW-Madison
+	* Gareth Baldrica-Franklin
+	* Alicia Cowart
+	* N.T. Nawshin
+	* Robert Roth
+
+*ICA UX Commission
+	* Robert Roth
+	* Merve Keskin
+	* Zdenek Stachon
