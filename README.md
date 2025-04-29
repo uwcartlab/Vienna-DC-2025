@@ -54,13 +54,13 @@ The DC Schedule is broken into six 90-120 minute units spanning three days, with
 * Unit 6: Team Presentations & Draft Feedback
     * 16:00 to 18:00 // Presentations
 	
-* 18:00+ // Social (!) *Recommendations appreciated!
+* 18:00+ // Social (!) *Recommendations appreciated!*
 
 ### Day 4 // Thursday 15.05.25
 
 * Second Drafts Due to Rob by _16:00_
 
-* PhD Student Show and Tell (N.T. Nawshin, Gareth Baldrica-Franklin) *Contact Rob if you are interested in giving a 5-10 minute lightning talk!
+* PhD Student Show and Tell (N.T. Nawshin, Gareth Baldrica-Franklin) *Contact Rob if you are interested in giving a 5-10 minute lightning talk*
 
 * 18:00+ // PhD Student Social (Alicia and Rob will crash!) *Recommendations appreciated!*
 
