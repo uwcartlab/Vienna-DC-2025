@@ -12,7 +12,7 @@ Our SDG Atlas in a Week will include at least 17 two page spreads, one covering 
  
 ## Schedule 
 
-The DC Schedule is broken into six units spanning three days, with most scheduled activities on Monday, May 12th, and drafts submitted 24 hours after the final unit on Thursday, May 15th. The schedule also includes a PhD student meetup (open to MSc students, particularly those interested in a PhD) and two social opportunities for conversation and networking (Wednesday and Thursday)
+The DC Schedule is broken into six 90-120 minute units spanning three days, with most scheduled activities on Monday, May 12th, and drafts submitted 24 hours after the final unit on Thursday, May 15th. The schedule also includes a PhD student meetup (open to MSc students, particularly those interested in a PhD) and two social opportunities for conversation and networking (Wednesday and Thursday)
 
 ### Day 1 // Monday 12.05.25
 
@@ -58,9 +58,9 @@ The DC Schedule is broken into six units spanning three days, with most schedule
 
 * Second Drafts Due to Rob by _16:00_
 
-*PhD Student Show and Tell (N.T. Nawshin, Gareth Baldrica-Franklin) *Contact Rob if you are interested in giving a 5-10 minute lightning talk!
+* PhD Student Show and Tell (N.T. Nawshin, Gareth Baldrica-Franklin) *Contact Rob if you are interested in giving a 5-10 minute lightning talk!
 
-* 18:00+ // PhD Student Social (Alicia and Rob will crash!) *Recommendations appreciated!
+* 18:00+ // PhD Student Social (Alicia and Rob will crash!) *Recommendations appreciated!*
 
 ## Data Sources
 * [UN SDG Data](https://unstats.un.org/sdgs/dataportal/database) - Global attribute data based on SDG indicators.
