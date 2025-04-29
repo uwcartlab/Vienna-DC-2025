@@ -1,4 +1,8 @@
-# 2025 SDG Design Challenge / (T)UW
+# 2025 SDG Design Challenge / T/U(X)W
+
+## Welcome to the 2025 Design Challenge!
+
+The University of Wisconsin Cartography Lab ([Cart Lab](https://www.geography.wisc.edu/cartography) Design Challenge is a day-long mapping workshop that brings together Cartography and Geography students, often in collaboration with campus or community partners, around a curated mapping theme. The Design Challenge is now an institution in the University of Wisconsin‒Madison Geography Department, first running in 2015 and wrapping its 10th annual event this past February 2024. This year we are taking the Design Challenge international, combining efforts with the Technical University of Wien, the Erasmus Mundus MSc Cartography Programme, and the International Cartographic Association Commission on the User Experience (UX).
  
 ## Schedule 
 ### Day 1 // Monday
