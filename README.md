@@ -103,7 +103,7 @@ Data from any official government source is limited. Combining different sources
     * [1.11 - Adding Elements to Layout View](https://github.com/uwcartlab/MappingSDGsTechnicalSupplement/blob/main/1_Choropleth/1.11_Layout.md)
     * [1.12 - Exporting the Map](https://github.com/uwcartlab/MappingSDGsTechnicalSupplement/blob/main/1_Choropleth/1.12_Save.md)
     * [1.13 - Advanced Layout Styling](https://github.com/uwcartlab/MappingSDGsTechnicalSupplement/blob/main/1_Choropleth/1.13_Advanced_Layout.md)
-* Proportional Symbol Tutorial (From Mapping SDGs Technical Supplement)
+* Proportional Symbol Tutorial From [_Mapping SDGs Technical Supplement_](https://github.com/uwcartlab/MappingSDGsTechnicalSupplement)
     * [2.1 - Overview and Setup](https://github.com/uwcartlab/MappingSDGsTechnicalSupplement/blob/main/2_Proportional_Symbol/2.1_proportional_setup.md)
     * [2.2 - Projecting Map and Adding Data](https://github.com/uwcartlab/MappingSDGsTechnicalSupplement/blob/main/2_Proportional_Symbol/2.2_project_and_data.md)
     * [2.3 - Extracting European Countries and Centroids](https://github.com/uwcartlab/MappingSDGsTechnicalSupplement/blob/main/2_Proportional_Symbol/2.3_select_europe_and_centroids.md)
