@@ -89,7 +89,7 @@ Data from any official government source is limited. Combining different sources
 * [A Historical Atlas of Racial Violence in the U.S., between 1889 and 1945](/Examples/A_Historical_Atlas_of_Racial_Violence.pdf) (Created for the 2024 Design Challenge hosted by the UW-Cartography lab)
 
 ## Tutorials
-* Choropleth Tutorial (From Mapping SDGs Technical Supplement)
+* Choropleth Tutorial From [_Mapping SDGs Technical Supplement_](https://github.com/uwcartlab/MappingSDGsTechnicalSupplement)
     * [1.1 - Overview and Project Planning](https://github.com/uwcartlab/MappingSDGsTechnicalSupplement/blob/main/1_Choropleth/1.1_Scope.md)
     * [1.2 - Downloading QGIS](https://github.com/uwcartlab/MappingSDGsTechnicalSupplement/blob/main/1_Choropleth/1.2_Download_QGIS.md)
     * [1.3 - Downloading Location and Attribute Data](https://github.com/uwcartlab/MappingSDGsTechnicalSupplement/blob/main/1_Choropleth/1.3_Download_Data.md)
