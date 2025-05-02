@@ -66,7 +66,7 @@ The DC Schedule is broken into six 90-120 minute units spanning three days, with
 
 ## Data Sources
 * [UN SDG Data](https://unstats.un.org/sdgs/dataportal/database) - Global attribute data based on SDG indicators.
-* [Simplified Country Shapefile](/Data/Spatial-Data/UN_Countries_Simplified.zip) - A processed and generalized shapefile of global nations. Can be easily joined with the UN SDG attribute data. From the [UN GeoPortal](https://geoportal.un.org/arcgis/apps/sites/#/geohub/datasets/d7caaff3ef4b4f7c82689b7c4694ad92/about).
+* [Simplified UN Country Shapefile](/Data/Spatial-Data/UN_Countries_Simplified.zip) - A processed and generalized shapefile of global nations. Can be easily joined with the UN SDG attribute data. From the [UN GeoPortal](https://geoportal.un.org/arcgis/apps/sites/#/geohub/datasets/d7caaff3ef4b4f7c82689b7c4694ad92/about).
 * [Natural Earth Data](https://www.naturalearthdata.com/) - A global geospatial reference database. Includes physical, cultural/political, and raster data at three different scales. A great resource for creating basemaps.  
 * [OpenStreetMap](https://www.openstreetmap.org/) - Volunteer-created global GIS reference database. Data can be downloaded through the [Overpass API](https://overpass-turbo.eu/) or through the [QuickOSM Plugin](https://plugins.qgis.org/plugins/QuickOSM/) for QGIS.
 * [GIS Data Sources](https://en.wikipedia.org/wiki/List_of_GIS_data_sources#Europe_by_country) - Helpful Wikipedia list of some national and regional GIS data sources.
@@ -129,6 +129,7 @@ Data from any official government source is limited. Combining different sources
 * UW-Madison Cart Lab
 	* Gareth Baldrica-Franklin
 	* Alicia Cowart
+	* Lily Houtman (now at Penn State)
 	* N.T. Nawshin
 	* Robert Roth
 
