@@ -134,6 +134,6 @@ Data from any official government source is limited. Combining different sources
 	* Robert Roth
 
 * UX Commission
-	* Robert Roth
 	* Merve Keskin
+	* Robert Roth
 	* Zdenek Stachon
