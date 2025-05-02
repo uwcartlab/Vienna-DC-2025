@@ -43,7 +43,7 @@ The DC Schedule is broken into six 90-120 minute units spanning three days, with
 ### Day 2 // Tuesday 13.05.25
 
 * Unit 5: Design Sprint 3, Polishing Your Visual Story
-    * 14:30 to 15:00 // Collective Spec Sheet Creation
+    * 14:30 to 15:00 // Adobe Illustrator Demo
     * 15:00 to 17:00 // Team Work (organizers available for questions)
 	* 17:00+ // Continue Work As Needed (Optional)
 	
