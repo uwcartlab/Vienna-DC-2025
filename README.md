@@ -20,14 +20,14 @@ The DC Schedule is broken into six 90-120 minute units spanning three days, with
     * 10:00 to 10:15 // Arrival (and coffee!)
     * 10:15 to 10:30 // Introductions from Georg Gartner and Robert Roth
     * 10:30 to 10:45 // Inspiration Talk 1: The United Nations Sustainable Development Goals (Ayako Kagawa)
-    * 10:45 to 11:00 // Inspiration Talk 2: Mapping the SDGs (Robert Roth)
-    * 11:00 to 11:15 // Inspiration Talk 3: Atlas in a Day (Alicia Cowart)
+    * 10:45 to 11:00 // Inspiration Talk 2: Tips for Mapping the SDGs (Robert Roth)
+    * 11:00 to 11:15 // Inspiration Talk 3: Making an Atlas in a Day (Alicia Cowart)
 
 * 11:15 to 11:30 // Break
 
-* Unit 2: Team Formation & Story Brainstorming
-    * 11:30 to 12:00 // Pick an SDG (rank your top three SDG themes, narrow into small groups, facilitated by Robert Roth)
-	* 12:00 to 13:00 // Story Brainstorming (breakouts with Alicia Cowart, Merve Keskin, N.T. Nawshin, Robert Roth, Zdenek Stachon, and available TUW staff)
+* Unit 2: Team Formation
+    * 11:30 to 12:00 // Picking Your SDG (rank your top three SDG themes, narrow into small groups, facilitated by Robert Roth)
+	* 12:00 to 13:00 // Brainstorming Your Story (breakouts with Alicia Cowart, Merve Keskin, N.T. Nawshin, Robert Roth, Zdenek Stachon, and available TUW staff)
 
 * 13:00 to 14:00 // Lunch
 
@@ -36,7 +36,7 @@ The DC Schedule is broken into six 90-120 minute units spanning three days, with
 
 * 15:30 to 16:00 // Creative Break, the Marshmallow Challenge (facilitated by Robert Roth)
 
-* Unit 4: Design Sprint 2, Sketching Your Visual Story
+* Unit 4: Design Sprint 2, Sketching & Organizing Your Visual Story
     * 16:00 to 17:30 // Team Work (organizers available for questions) *The goal is to have cleaned, mappable data in a GIS by day end*
 	* 17:30+ // Continue Work As Needed (Optional)
 	
