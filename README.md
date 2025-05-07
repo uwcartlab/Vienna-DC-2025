@@ -14,9 +14,15 @@ Our SDG Atlas in a Week will include at least 17 two page spreads, one covering 
 
 The DC Schedule is broken into six 90-120 minute units spanning three days, with most scheduled activities on Monday, May 12th, and drafts submitted 24 hours after the final unit on Thursday, May 15th. The schedule also includes a PhD student meetup (open to MSc students, particularly those interested in a PhD) and two social opportunities for conversation and networking (Wednesday and Thursday)
 
+### Day 0 // Tuesday 0.60.25
+
+* **Unit 0: Sneak Peak**
+	* Unit 0 Slides
+
+
 ### Day 1 // Monday 12.05.25
 
-* Unit 1: Introductions & Inspiration Talks
+* **Unit 1: Introductions & Inspiration Talks**
     * 10:00 to 10:15 // Arrival (and coffee!)
     * 10:15 to 10:30 // Introductions from Georg Gartner and Robert Roth
     * 10:30 to 10:45 // Inspiration Talk 1: The United Nations Sustainable Development Goals (Ayako Kagawa)
@@ -25,33 +31,33 @@ The DC Schedule is broken into six 90-120 minute units spanning three days, with
 
 * 11:15 to 11:30 // Break
 
-* Unit 2: Team Formation
+* **Unit 2: Team Formation**
     * 11:30 to 12:00 // Picking Your SDG (rank your top three SDG themes, narrow into small groups, facilitated by Robert Roth)
 	* 12:00 to 13:00 // Brainstorming Your Story (breakouts with Alicia Cowart, Merve Keskin, N.T. Nawshin, Robert Roth, Zdenek Stachon, and available TUW staff)
 
 * 13:00 to 14:00 // Lunch
 
-* Unit 3: Design Sprint 1, Obtaining Your Data, Researching Your Topic
+* **Unit 3: Design Sprint 1, Obtaining Your Data, Researching Your Topic**
     * 14:00 to 15:30 // Team Work (organizers available for questions)
 
 * 15:30 to 16:00 // Creative Break, the Marshmallow Challenge (facilitated by Robert Roth)
 
-* Unit 4: Design Sprint 2, Sketching & Organizing Your Visual Story
-    * 16:00 to 17:30 // Team Work (organizers available for questions) *The goal is to have cleaned, mappable data in a GIS by day end*
+* **Unit 4: Design Sprint 2, Sketching & Organizing Your Visual Story**
+    * 16:00 to 17:30 // Team Work (organizers available for questions) *The goal is to have cleaned, mappable data in a GIS by day's end*
 	* 17:30+ // Continue Work As Needed (Optional)
 	
 ### Day 2 // Tuesday 13.05.25
 
-* Unit 5: Design Sprint 3, Polishing Your Visual Story
+* **Unit 5: Design Sprint 3, Polishing Your Visual Story**
     * 14:30 to 15:00 // Adobe Illustrator Demo
-    * 15:00 to 17:00 // Team Work (organizers available for questions)
+    * 15:00 to 17:00 // Team Work (organizers available for questions) *The goal is to be out of GIS and into Adobe Illustrator by day's end*
 	* 17:00+ // Continue Work As Needed (Optional)
 	
 ### Day 3 // Wednesday 14.05.25
 
 * Initial Drafts Due in Google Slides by _16:00_
 
-* Unit 6: Team Presentations & Draft Feedback
+* **Unit 6: Team Presentations & Draft Feedback**
     * 16:00 to 18:00 // Presentations
 	
 * 18:00+ // Social (!) *Recommendations appreciated!*
