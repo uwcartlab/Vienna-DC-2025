@@ -60,7 +60,7 @@ The DC Schedule is broken into six 90-120 minute units spanning three days, with
 * **Unit 6: Team Presentations & Draft Feedback**
     * 16:00 to 18:00 // Presentations
 	
-* 18:00+ // Social (!) *Recommendations appreciated!*
+* 18:00+ // Social (!) *Wienden Bräu*
 
 ### Day 4 // Thursday 15.05.25
 
