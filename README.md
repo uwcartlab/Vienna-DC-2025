@@ -69,8 +69,21 @@ The DC Schedule is broken into six 90-120 minute units spanning three days, with
 	
 	* [SDG 1](https://docs.google.com/presentation/d/1R3aAqohCjxt9Jb2oHGeXxQ_SY0AWDcN7bnCh8rYiDFU/edit?usp=sharing)
 	* [SDG 2](https://docs.google.com/presentation/d/1SjdCzwVkswXKyBR4pf3bouitB6etQ858032zsvgBuiw/edit?usp=sharing)
-
-
+	* [SDG 3](https://docs.google.com/presentation/d/1TjSnnWIWqbDKayIH2uTkeeuuua-fm7_AFseKV32rN1c/edit?usp=sharing)
+	* [SDG 4](https://docs.google.com/presentation/d/1d38YEYtUF-siZnJIE4XpWY115oOqe-23ubDiST0GPD8/edit?usp=sharing)
+	* [SDG 5](https://docs.google.com/presentation/d/18blbFSSJMaoRVy7QOx5J4BE_-fULQRo25Ny5mIZRDIo/edit?usp=sharing)
+	* [SDG 6](https://docs.google.com/presentation/d/1QuUUuIZkCKzYfujcakUtvpqoIXliwxHRf9l3QZ_QWXc/edit?usp=sharing)
+	* [SDG 7](https://docs.google.com/presentation/d/18c-t2-iemImbGzjq-Z6nmgufNiMhKdkc4bT6YPSgA1o/edit?usp=sharing)
+	* [SDG 8](https://docs.google.com/presentation/d/1JaO_P2jrofo-tcgxCvuP37K0Q68aNziJ7hvmpNwsHIk/edit?usp=sharing)
+	* [SDG 9](https://docs.google.com/presentation/d/1uFx-eEWyG62BsPZAQncHq7q79xcWGHk7ZcnccJr8am8/edit?usp=sharing
+	* [SDG 10](https://docs.google.com/presentation/d/1KPta9I_GO2u1tlb0gSHTEnClvs-S0OiYE2wY0apSgn8/edit?usp=sharing)
+	* [SDG 11](https://docs.google.com/presentation/d/1CfgfHd6apUtKEfHkw_4T8aEvSseuMYc1tOfKh_PI77Q/edit?usp=sharing)
+	* [SDG 12](https://docs.google.com/presentation/d/1w3MLieiTMmCUFawHh8H7rXFVdK0b5s81pxz5w3COe_c/edit?usp=sharing)
+	* [SDG 13](https://docs.google.com/presentation/d/1JlRoNPh1G4DrTtHb_Qaa0Gqg9uBcdGlJukcuTxJ3F-g/edit?usp=sharing)
+	* [SDG 14](https://docs.google.com/presentation/d/1sd5ZexCbRlTve6WdfRx-BrDLxCQuJpKFuna9sjhnSpU/edit?usp=sharing)
+	* [SDG 15](https://docs.google.com/presentation/d/11JxDKUNwQrSojrSu0cGDmvZPDRbpjbEKUx7wpSGM5sQ/edit?usp=sharing)
+	* [SDG 16](https://docs.google.com/presentation/d/1-AFFZlOjvh-AcfBqeq8CUabrsKpRQGTCAYfOpjRoSI8/edit?usp=sharing)
+	* [SDG 17](https://docs.google.com/presentation/d/1PSo6AOcoUhNHyFCbhfBpS06gq_534MyNM7lSV25nI4I/edit?usp=sharing)
 	
 * 18:00+ // Social (!) *Wienden Bräu*
 
