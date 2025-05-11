@@ -24,10 +24,10 @@ The DC Schedule is broken into six 90-120 minute units spanning three days, with
 
 * **Unit 1: Introductions & Inspiration Talks**
     * 10:00 to 10:15 // Arrival (and coffee!)
-    * 10:15 to 10:30 // Introductions from Georg Gartner and Robert Roth
+    * 10:15 to 10:30 // [Introductions](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit1.pdf) from Georg Gartner and Robert Roth
     * 10:30 to 10:45 // Inspiration Talk 1: The United Nations Sustainable Development Goals (Ayako Kagawa)
-    * 10:45 to 11:00 // Inspiration Talk 2: Tips for Mapping the SDGs (Robert Roth)
-    * 11:00 to 11:15 // Inspiration Talk 3: Making an Atlas in a Day (Alicia Cowart)
+    * 10:45 to 11:00 // [Inspiration Talk 2: Tips for Mapping the SDGs](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit1_Roth.pdf) (Robert Roth)
+    * 11:00 to 11:15 // [Inspiration Talk 3: Making an Atlas in a Day](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit1_Cowart.pdf) (Alicia Cowart)
 
 * 11:15 to 11:30 // Break
 
