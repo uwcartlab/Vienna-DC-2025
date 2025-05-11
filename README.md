@@ -78,7 +78,16 @@ The DC Schedule is broken into six 90-120 minute units spanning three days, with
 * [Simplified UN Country Shapefile](/Data/Spatial-Data/UN_Countries_Simplified.zip) - A processed and generalized shapefile of global nations. Can be easily joined with the UN SDG attribute data. From the [UN GeoPortal](https://geoportal.un.org/arcgis/apps/sites/#/geohub/datasets/d7caaff3ef4b4f7c82689b7c4694ad92/about).
 * [Natural Earth Data](https://www.naturalearthdata.com/) - A global geospatial reference database. Includes physical, cultural/political, and raster data at three different scales. A great resource for creating basemaps.  
 * [OpenStreetMap](https://www.openstreetmap.org/) - Volunteer-created global GIS reference database. Data can be downloaded through the [Overpass API](https://overpass-turbo.eu/) or through the [QuickOSM Plugin](https://plugins.qgis.org/plugins/QuickOSM/) for QGIS.
+
+**Global**
+
 * [ACLED](https://acleddata.com/) - Global conflict data, particularly related to SDG 16
+* [Esri Open Data Portal](https://hub.arcgis.com/search)
+* [International Monetary Fund Data](https://www.imf.org/en/Data)
+* [Organization for Economic Co-operation and Development Stats](https://data-explorer.oecd.org/)
+* [United Nations Data Portal](https://data.un.org/)
+* [World Bank Open Data](https://data.worldbank.org/)
+
 
 **Africa**
 
@@ -93,12 +102,17 @@ The DC Schedule is broken into six 90-120 minute units spanning three days, with
 * [GIS Data Sources](https://en.wikipedia.org/wiki/List_of_GIS_data_sources#Europe_by_country) - Helpful Wikipedia list of some national and regional GIS data sources.
 * [Austria Statistics] (https://www.statistik.at/en/statistics)(e.g., road traffic accidents, economic growth, etc.)
 
-
 **Latin America***
 
 * [Latin America Data Hub](https://hub-latin-america-geocentro.hub.arcgis.com/) - Geospatial HUB for SDG related data centered on Latin America.
 
+**North America (primarily US)**
 
+* [Data.gov](https://data.gov/)
+* [U.S. Bureau of Economic Analysis](https://www.bea.gov/itable/)
+* [U.S. Census of Agriculture](https://www.nass.usda.gov/Data_and_Statistics/index.php)
+* [U.S. Census Bureau](https://www.census.gov/data/data-tools.html) (warning: can be difficult to navigate but loads of data)
+* [U.S. Energy Information Administration](https://www.eia.gov/)
 
 **Polar**
 
