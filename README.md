@@ -32,19 +32,23 @@ The DC Schedule is broken into six 90-120 minute units spanning three days, with
 * 11:15 to 11:30 // Break
 
 * **Unit 2: Team Formation**
-    * 11:30 to 12:00 // Picking Your SDG (rank your top three SDG themes, narrow into small groups, facilitated by Robert Roth)
+	* 11:30 to 12:00 // Picking Your SDG (rank your top three SDG themes, narrow into small groups, facilitated by Robert Roth)
 	* 12:00 to 13:00 // Brainstorming Your Story (breakouts with Alicia Cowart, Merve Keskin, N.T. Nawshin, Robert Roth, Zdenek Stachon, and available TUW staff)
+	* [Unit 2 Slides](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit2.pdf)
 
 * 13:00 to 14:00 // Lunch
 
 * **Unit 3: Design Sprint 1, Obtaining Your Data, Researching Your Topic**
     * 14:00 to 15:30 // Team Work (organizers available for questions)
+	* [Unit 3 Slides](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit3.pdf)
 
 * 15:30 to 16:00 // Creative Break, the Marshmallow Challenge (facilitated by Robert Roth)
 
 * **Unit 4: Design Sprint 2, Sketching & Organizing Your Visual Story**
     * 16:00 to 17:30 // Team Work (organizers available for questions) *The goal is to have cleaned, mappable data in a GIS by day's end*
 	* 17:30+ // Continue Work As Needed (Optional)
+	* [Unit 4 Slides](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit4.pdf)
+
 	
 ### Day 2 // Tuesday 13.05.25
 
@@ -52,6 +56,8 @@ The DC Schedule is broken into six 90-120 minute units spanning three days, with
     * 14:30 to 15:00 // Adobe Illustrator Demo
     * 15:00 to 17:00 // Team Work (organizers available for questions) *The goal is to be out of GIS and into Adobe Illustrator by day's end*
 	* 17:00+ // Continue Work As Needed (Optional)
+	* [Unit 5 Slides](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit5.pdf)
+
 	
 ### Day 3 // Wednesday 14.05.25
 
@@ -59,6 +65,12 @@ The DC Schedule is broken into six 90-120 minute units spanning three days, with
 
 * **Unit 6: Team Presentations & Draft Feedback**
     * 16:00 to 18:00 // Presentations
+	* [Unit 6 Slides](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit6.pdf)
+	
+	* [SDG 1](https://docs.google.com/presentation/d/1R3aAqohCjxt9Jb2oHGeXxQ_SY0AWDcN7bnCh8rYiDFU/edit?usp=sharing)
+	* [SDG 1](https://docs.google.com/presentation/d/1SjdCzwVkswXKyBR4pf3bouitB6etQ858032zsvgBuiw/edit?usp=sharing)
+
+
 	
 * 18:00+ // Social (!) *Wienden Bräu*
 
@@ -69,6 +81,8 @@ The DC Schedule is broken into six 90-120 minute units spanning three days, with
 * PhD Student Show and Tell (N.T. Nawshin, Gareth Baldrica-Franklin) *Contact Rob if you are interested in giving a 5-10 minute lightning talk*
 
 * 18:00+ // PhD Student Social (Alicia and Rob will crash!) *Recommendations appreciated!*
+
+
 
 ## Data Sources
 
