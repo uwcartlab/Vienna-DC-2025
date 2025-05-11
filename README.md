@@ -71,15 +71,38 @@ The DC Schedule is broken into six 90-120 minute units spanning three days, with
 * 18:00+ // PhD Student Social (Alicia and Rob will crash!) *Recommendations appreciated!*
 
 ## Data Sources
+
+**Linework/Boundaries**
+
 * [UN SDG Data](https://unstats.un.org/sdgs/dataportal/database) - Global attribute data based on SDG indicators.
 * [Simplified UN Country Shapefile](/Data/Spatial-Data/UN_Countries_Simplified.zip) - A processed and generalized shapefile of global nations. Can be easily joined with the UN SDG attribute data. From the [UN GeoPortal](https://geoportal.un.org/arcgis/apps/sites/#/geohub/datasets/d7caaff3ef4b4f7c82689b7c4694ad92/about).
 * [Natural Earth Data](https://www.naturalearthdata.com/) - A global geospatial reference database. Includes physical, cultural/political, and raster data at three different scales. A great resource for creating basemaps.  
 * [OpenStreetMap](https://www.openstreetmap.org/) - Volunteer-created global GIS reference database. Data can be downloaded through the [Overpass API](https://overpass-turbo.eu/) or through the [QuickOSM Plugin](https://plugins.qgis.org/plugins/QuickOSM/) for QGIS.
-* [GIS Data Sources](https://en.wikipedia.org/wiki/List_of_GIS_data_sources#Europe_by_country) - Helpful Wikipedia list of some national and regional GIS data sources.
+* [ACLED](https://acleddata.com/) - Global conflict data, particularly related to SDG 16
+
+**Africa**
+
 * [Open Africa](https://open.africa/) - Volunteer-led open GIS data platform centered on Africa. 
-* [Latin America Data Hub](https://hub-latin-america-geocentro.hub.arcgis.com/) - Geospatial HUB for SDG related data centered on Latin America.
-* [Data for Polar Regions](https://researchguides.dartmouth.edu/gisdata/polardata) - Hub for data resources about Antarctica and the Arctic. Hosted at Dartmouth University.
+
+**Asia**
+
 * [Digital India](https://www.data.gov.in/) - Open geospatial data platform for India.
+
+**Europe**
+
+* [GIS Data Sources](https://en.wikipedia.org/wiki/List_of_GIS_data_sources#Europe_by_country) - Helpful Wikipedia list of some national and regional GIS data sources.
+* [Austria Statistics] (https://www.statistik.at/en/statistics)(e.g., road traffic accidents, economic growth, etc.)
+
+
+**Latin America***
+
+* [Latin America Data Hub](https://hub-latin-america-geocentro.hub.arcgis.com/) - Geospatial HUB for SDG related data centered on Latin America.
+
+
+
+**Polar**
+
+* [Data for Polar Regions](https://researchguides.dartmouth.edu/gisdata/polardata) - Hub for data resources about Antarctica and the Arctic. Hosted at Dartmouth University.
 
 Many nations across the globe have some geospatial and attribute data available through national-level portals. Some sub-natinoal regions and cities do, too (for example [Cape Town](https://odp-cctegis.opendata.arcgis.com/), [Vienna](https://www.wien.gv.at/viennagis/), [Rio de Janeiro](https://www.data.rio/)). As you develop your idea/map, you are encouraged to search for  data from a local nation/region/city to complement your global data, and tell a grounded, place-based narrative. 
 
