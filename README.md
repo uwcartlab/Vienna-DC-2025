@@ -72,6 +72,11 @@ The DC Schedule is broken into six 90-120 minute units spanning three days, with
 
 ## Data Sources
 
+**Layout**
+* [Illustrator Grid](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Layout/4-Column_Layout_Template_Grid.ai)
+* [Grid Sketch](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Layout/GridandGuideSketch.png)
+* [Atlas Layout](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Layout/Atlas_Layout.indd)
+
 **Linework/Boundaries**
 
 * [UN SDG Data](https://unstats.un.org/sdgs/dataportal/database) - Global attribute data based on SDG indicators.
