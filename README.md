@@ -68,7 +68,7 @@ The DC Schedule is broken into six 90-120 minute units spanning three days, with
 	* [Unit 6 Slides](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Vienna_DC_2025_Unit6.pdf)
 	
 	* [SDG 1](https://docs.google.com/presentation/d/1R3aAqohCjxt9Jb2oHGeXxQ_SY0AWDcN7bnCh8rYiDFU/edit?usp=sharing)
-	* [SDG 1](https://docs.google.com/presentation/d/1SjdCzwVkswXKyBR4pf3bouitB6etQ858032zsvgBuiw/edit?usp=sharing)
+	* [SDG 2](https://docs.google.com/presentation/d/1SjdCzwVkswXKyBR4pf3bouitB6etQ858032zsvgBuiw/edit?usp=sharing)
 
 
 	
