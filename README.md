@@ -75,7 +75,7 @@ The DC Schedule is broken into six 90-120 minute units spanning three days, with
 	* [SDG 6](https://docs.google.com/presentation/d/1QuUUuIZkCKzYfujcakUtvpqoIXliwxHRf9l3QZ_QWXc/edit?usp=sharing)
 	* [SDG 7](https://docs.google.com/presentation/d/18c-t2-iemImbGzjq-Z6nmgufNiMhKdkc4bT6YPSgA1o/edit?usp=sharing)
 	* [SDG 8](https://docs.google.com/presentation/d/1JaO_P2jrofo-tcgxCvuP37K0Q68aNziJ7hvmpNwsHIk/edit?usp=sharing)
-	* [SDG 9](https://docs.google.com/presentation/d/1uFx-eEWyG62BsPZAQncHq7q79xcWGHk7ZcnccJr8am8/edit?usp=sharing
+	* [SDG 9](https://docs.google.com/presentation/d/1uFx-eEWyG62BsPZAQncHq7q79xcWGHk7ZcnccJr8am8/edit?usp=sharing)
 	* [SDG 10](https://docs.google.com/presentation/d/1KPta9I_GO2u1tlb0gSHTEnClvs-S0OiYE2wY0apSgn8/edit?usp=sharing)
 	* [SDG 11](https://docs.google.com/presentation/d/1CfgfHd6apUtKEfHkw_4T8aEvSseuMYc1tOfKh_PI77Q/edit?usp=sharing)
 	* [SDG 12](https://docs.google.com/presentation/d/1w3MLieiTMmCUFawHh8H7rXFVdK0b5s81pxz5w3COe_c/edit?usp=sharing)
