@@ -163,6 +163,7 @@ Data from any official government source is limited. Combining different sources
 * [Mapping for a Sustainable World Textbook](https://digitallibrary.un.org/record/3898826?ln=en&v=pdf)
 * [United Nations Yearly Atlas Project](https://www.un.org/geospatial/mapsgeo/thematic)
 * [Atlas of Sustainable Development Goals](https://datatopics.worldbank.org/sdgatlas?lang=en)
+* [Classification of SDG Tiers](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Slides/Tier%20Classification%20of%20SDG%20Indicators_%2010%20Apr%202025_web.pdf)
 
 * Guerilla Cartography Atlas in a Day Series
     * [Community](https://drive.google.com/file/d/17DKiZtUN_i3zEH4_VAA92fN25TkDE_er/view)
