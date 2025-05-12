@@ -194,10 +194,12 @@ Data from any official government source is limited. Combining different sources
     * [2.6 - Creating the Legend](https://github.com/uwcartlab/MappingSDGsTechnicalSupplement/blob/main/2_Proportional_Symbol/2.6_legend.md)
     * [2.7 - Advanced Layout Styling](https://github.com/uwcartlab/MappingSDGsTechnicalSupplement/blob/main/2_Proportional_Symbol/2.7_layout.md)
 * Dot Density
-    * [1 - Overview and Setup](/Tutorials/Dot_Density/1_dot_setup.md)
-    * [2 - Adding, Joining, and Projecting Data](/Tutorials/Dot_Density/2_adding_joining_data.md)
-    * [3 - Creating Dot Layer](/Tutorials/Dot_Density/3_creating_dot_layer.md)
+    * [3.1 - Overview and Setup](/Tutorials/Dot_Density/1_dot_setup.md)
+    * [3.2 - Adding, Joining, and Projecting Data](/Tutorials/Dot_Density/2_adding_joining_data.md)
+    * [3.3 - Creating Dot Layer](/Tutorials/Dot_Density/3_creating_dot_layer.md)
 * Exporting from QGIS to Illustrator
+	* [4.1 - Create and Export QGIS Layout](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Tutorials/Exporting/1_QGIS_export_layout.md)
+	* [4.2 - Preparing an SVG in Illustrator](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Tutorials/Exporting/2_SVG_prep_in_illustrator.md)
 
 ## Organizers
 
