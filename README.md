@@ -161,7 +161,9 @@ Data from any official government source is limited. Combining different sources
 
 ## Examples
 * [Mapping for a Sustainable World Textbook](https://digitallibrary.un.org/record/3898826?ln=en&v=pdf)
+* [United Nations Yearly Atlas Project](https://www.un.org/geospatial/mapsgeo/thematic)
 * [Atlas of Sustainable Development Goals](https://datatopics.worldbank.org/sdgatlas?lang=en)
+
 * Guerilla Cartography Atlas in a Day Series
     * [Community](https://drive.google.com/file/d/17DKiZtUN_i3zEH4_VAA92fN25TkDE_er/view)
     * [Migration](https://drive.google.com/file/d/13spCUTiaH5fKODgciFw8GtQgQ3ZUAnyR/view) 
