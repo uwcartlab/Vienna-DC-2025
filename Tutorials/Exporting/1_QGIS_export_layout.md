@@ -1,6 +1,6 @@
 # QGIS to Illustrator Tutorial: 1 - Create and Export QGIS Layout
 
-### Summary
+### Tutorial Summary
 In __Tutorial 1__ you will create a layout based on a QGIS map file, and export that layout to an SVG. We will be using the example created in the [dot density](../Dot_Density/3_creating_dot_layer.md) tutorial, but you can apply this tutorial to any QGIS map file.
 
 ### Creating Layout
