@@ -90,6 +90,7 @@ The DC Schedule is broken into six 90-120 minute units spanning three days, with
 ### Day 4 // Thursday 15.05.25
 
 * Second Drafts Due to Rob by _16:00_
+	** [Upload Form including Atlas Text](https://docs.google.com/forms/d/1dTyrOOdBJqqqHw3sZl5l8gSFTL58_rqrDxCDM03cP_g/edit)
 
 * PhD Student Show and Tell (N.T. Nawshin, Gareth Baldrica-Franklin) *Contact Rob if you are interested in giving a 5-10 minute lightning talk*
 
