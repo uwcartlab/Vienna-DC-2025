@@ -90,7 +90,7 @@ The DC Schedule is broken into six 90-120 minute units spanning three days, with
 ### Day 4 // Thursday 15.05.25
 
 * Second Drafts Due to Rob by _EXTENDED TO END OF DATE THURSDAY!_
-	** [Upload Form including Atlas Text](https://docs.google.com/forms/d/1dTyrOOdBJqqqHw3sZl5l8gSFTL58_rqrDxCDM03cP_g/edit)
+	** [Upload Form including Atlas Text](https://docs.google.com/forms/d/e/1FAIpQLScXGaDCgswx5sGpmRXHKlSGYNNB2u7M1JYsAwLq9dPncjwGkA/viewform?usp=header)
 
 * PhD Student Show and Tell (N.T. Nawshin, Gareth Baldrica-Franklin) *Contact Rob if you are interested in giving a 5-10 minute lightning talk*
 
@@ -133,11 +133,11 @@ The DC Schedule is broken into six 90-120 minute units spanning three days, with
 **Europe**
 
 * [GIS Data Sources](https://en.wikipedia.org/wiki/List_of_GIS_data_sources#Europe_by_country) - Helpful Wikipedia list of some national and regional GIS data sources.
-* [Austria Statistics] (https://www.statistik.at/en/statistics)(e.g., road traffic accidents, economic growth, etc.)
-* [Eurostat] (https://ec.europa.eu/eurostat/web/main/data/database)
+* [Austria Statistics](https://www.statistik.at/en/statistics)(e.g., road traffic accidents, economic growth, etc.)
+* [Eurostat](https://ec.europa.eu/eurostat/web/main/data/database)
 * [Copernicus Land Monitoring Service](https://land.copernicus.eu/en) - Satellite-based land monitoring products e.g., Corine Land Cover, Urban Atlas 
-* [INSPIRE geoportal] (https://inspire-geoportal.ec.europa.eu/srv/eng/catalog.search#/home)
-* [European Environment Agency (EEA)] (https://www.eea.europa.eu/en/datahub?size=n_10_n&filters%5B0%5D%5Bfield%5D=issued.date&filters%5B0%5D%5Btype%5D=any&filters%5B0%5D%5Bvalues%5D%5B0%5D=All%20time)
+* [INSPIRE geoportal](https://inspire-geoportal.ec.europa.eu/srv/eng/catalog.search#/home)
+* [European Environment Agency (EEA)](https://www.eea.europa.eu/en/datahub?size=n_10_n&filters%5B0%5D%5Bfield%5D=issued.date&filters%5B0%5D%5Btype%5D=any&filters%5B0%5D%5Bvalues%5D%5B0%5D=All%20time)
 * [European Data Portal](https://data.europa.eu/en) - Aggregator of open data from EU institutions and member states
 
 **Latin America***
