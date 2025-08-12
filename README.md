@@ -1,5 +1,17 @@
 # 2025 SDG Design Challenge / T/U(X)W
 
+## tl/dr: [Download the _Atlas of Sustainability_ for Free!](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Layout/RothGartnerEtAl_2025_AtlasOfSustinability_InternationalCartographicAssociation.pdf)!
+
+The 2025 Design Challenge resulted in the _Atlas of Sustainability_, an official publication of the International Cartographic Association. Download the final printed _Atlas_ [here](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Layout/RothGartnerEtAl_2025_AtlasOfSustinability_InternationalCartographicAssociation.pdf).
+
+Cite the Atlas as:
+
+Roth RE, G Gartner, G Baldrica-Franklin, A Cowart, L Houtman, A Kagawa, M Keskin, MJ Kraak, NT Nawshin, F Ortag, B Ricker, S Schlumpf, and Z Stachoň (Editors). 2025. Atlas of Sustainability. Vienna, Austria: The International Cartographic Association.
+
+Cite Atlas spreads as:
+
+[Cartographer Names]. 2025. In: Roth RE, G Gartner, G Baldrica-Franklin, A Cowart, L Houtman, A Kagawa, M Keskin, MJ Kraak, NT Nawshin, F Ortag, B Ricker, S Schlumpf, and Z Stachoň (Editors). 2025. Atlas of Sustainability. Vienna, Austria: The International Cartographic Association. Page #s.
+
 ## Welcome to the 2025 Design Challenge!
 
 The University of Wisconsin Cartography Lab ([Cart Lab](https://www.geography.wisc.edu/cartography)) Design Challenge is a day-long mapping workshop that brings together Cartography and Geography students, often in collaboration with campus or community partners, around a curated mapping theme. The Design Challenge is now an institution in the University of Wisconsin‒Madison Geography Department, first running in 2015 and wrapping its 10th annual event this past February 2024. This year (officially #DC11) we are taking the Design Challenge international, combining efforts with the Technical University of Wien, the Erasmus Mundus MSc Cartography Programme, and the International Cartographic Association Commission on the User Experience (UX).
