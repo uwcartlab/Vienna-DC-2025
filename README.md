@@ -4,11 +4,11 @@
 
 The 2025 Design Challenge resulted in the _Atlas of Sustainability_, an official publication of the International Cartographic Association. Download the final printed _Atlas_ [here](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Layout/RothGartnerEtAl_2025_AtlasOfSustinability_InternationalCartographicAssociation.pdf).
 
-Cite the Atlas as:
+**Cite the Atlas as:**
 
 Roth RE, G Gartner, G Baldrica-Franklin, A Cowart, L Houtman, A Kagawa, M Keskin, MJ Kraak, NT Nawshin, F Ortag, B Ricker, S Schlumpf, and Z Stachoň (Editors). 2025. Atlas of Sustainability. Vienna, Austria: The International Cartographic Association.
 
-Cite Atlas spreads as:
+**Cite Atlas spreads as:**
 
 [Cartographer Names]. 2025. In: Roth RE, G Gartner, G Baldrica-Franklin, A Cowart, L Houtman, A Kagawa, M Keskin, MJ Kraak, NT Nawshin, F Ortag, B Ricker, S Schlumpf, and Z Stachoň (Editors). 2025. Atlas of Sustainability. Vienna, Austria: The International Cartographic Association. Page #s.
 
