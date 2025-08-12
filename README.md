@@ -1,4 +1,4 @@
-# 2025 SDG Design Challenge / T/U(X)W
+# 2025 SDG Design Challenge / Atlas of Sustainability in One Week!
 
 ## tl/dr: [Download the _Atlas of Sustainability_ for Free!](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Layout/RothGartnerEtAl_2025_AtlasOfSustinability_InternationalCartographicAssociation.pdf)!
 
