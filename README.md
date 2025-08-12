@@ -217,7 +217,7 @@ Data from any official government source is limited. Combining different sources
 
 ## Design Challenge Organizers / Atlas Editors
 
-* International Cartographic Association
+* **International Cartographic Association**
 	* Georg Gartner, President
 	* Merve Keskin, Vice Chair, Commission on the User Experience
 	* Menno-Jan Kraak, Past President
@@ -225,15 +225,15 @@ Data from any official government source is limited. Combining different sources
 	* Robert E. Roth, Chair, Commission on the User Experience
 	* Zdeněk Stachoň, Vice Chair, Commission on the User Experience
 
-* Technische Universität Wien Cartography Research Unit
+* **Technische Universität Wien Cartography Research Unit**
 	* Georg Gartner
 	* Felix Ortag
 	* Sacha Schlumpf
 
-* United Nations
+* **United Nations**
 	* Ayako Kagawa
 
-* UW-Madison Cart Lab
+* **UW-Madison Cart Lab**
 	* Gareth Baldrica-Franklin
 	* Alicia Cowart
 	* Lily Houtman (now at Penn State)
