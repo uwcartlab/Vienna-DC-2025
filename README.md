@@ -2,7 +2,7 @@
 
 ## tl/dr: [Download the _Atlas of Sustainability_ for Free!](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Layout/RothGartnerEtAl_2025_AtlasOfSustinability_InternationalCartographicAssociation.pdf)!
 
-The 2025 Design Challenge resulted in the _Atlas of Sustainability_, an official publication of the International Cartographic Association produced in less than one week at the Technical University of Wien. Download the final printed _Atlas_ [here](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Layout/RothGartnerEtAl_2025_AtlasOfSustinability_InternationalCartographicAssociation.pdf).
+The 2025 Design Challenge resulted in the _Atlas of Sustainability_, an official publication of the International Cartographic Association produced in less than one week at the Technical University of Wien. Download the final printed _Atlas_ [here](https://github.com/uwcartlab/Vienna-DC-2025/blob/main/Layout/RothGartnerEtAl_2025_AtlasOfSustainability_InternationalCartographicAssociation.pdf).
 
 **Cite the Atlas as:**
 
